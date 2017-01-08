@@ -1,0 +1,210 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\000032}}
+#header {
+  min-height: 320px;
+  background: url(../images/header.jpg);
+  background-size: cover; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\000037}}
+  #header .logo {
+    float: left;
+    margin-top: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000311}}
+  #header .ibos {
+    margin-top: 45px;
+    float: right; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000315}}
+    #header .ibos a {
+      text-decoration: none;
+      display: inline-block;
+      color: white;
+      margin-left: 10px;
+      font-size: 16px;
+      background-color: transparent;
+      padding: 4 16px;
+      border-radius: 2px;
+      font-weight: bold;
+      font-family: 'Open Sans', sans-serif; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000328}}
+    #header .ibos .log {
+      border: 1px solid white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000331}}
+    #header .ibos .registor {
+      background-color: #FF8500;
+      border: 1px solid #FF8500; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000338}}
+  #header .form h2 {
+    color: white;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000345}}
+  #header .form input {
+    width: 100%;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 20px 20px;
+    font: 17px/20px 'Open Sans';
+    box-shadow: 0 2px 2px 0 #474747;
+    margin: 0; }
+
+/*-----------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000361}}
+.popular {
+  background-color: #F3F3F3;
+  margin-top: 0;
+  padding-bottom: 60px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000365}}
+  .popular h2 {
+    text-align: center;
+    color: gray;
+    margin: 0;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #24436B;
+    padding-top: 55px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000376}}
+  .popular .odenis {
+    margin-top: 40px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000379}}
+  .popular .cerime {
+    min-height: 167px;
+    background: white;
+    box-shadow: 1px 1px 1px 0 #CDCDCD; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000383}}
+    .popular .cerime p {
+      margin-top: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\0000386}}
+    .popular .cerime a {
+      left: 0;
+      width: 100%;
+      bottom: 0;
+      display: block;
+      height: 40px;
+      background: #0B5CBB;
+      color: #fff;
+      font: 14px/40px 'Open Sans';
+      text-decoration: none;
+      text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003103}}
+  .popular h3 {
+    margin: 0;
+    font: 12px/12px 'Open Sans';
+    padding-left: 16px;
+    padding-top: 23px;
+    margin-bottom: 13px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003110}}
+  .popular p, .popular h3, .popular img {
+    margin-left: 10px; }
+
+/*------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003116}}
+.bloks {
+  border-top: 1px solid #E6E6E6;
+  border-bottom: 1px solid #E6E6E6;
+  background-color: white;
+  padding: 35px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003122}}
+  .bloks a {
+    border: 3px solid #FF8500;
+    display: inline-block;
+    padding: 16px 40px;
+    font-size: 14px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: #24436B; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003132}}
+  .bloks .cerime2 {
+    border: 3px solid #1FB57B; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003135}}
+  .bloks .cerime3 {
+    border: 3px solid #A343F5; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003138}}
+  .bloks .cerime4 {
+    border: 3px solid #0170F1; }
+
+/*------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003146}}
+.right p {
+  text-align: center;
+  margin: 20px 0;
+  font: 12px/12px 'Open Sans'; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003151}}
+  .right p a {
+    border-right: 1px solid  #0170F1;
+    margin: 0 3px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003159}}
+#main {
+  width: 600px;
+  height: 469px;
+  border-radius: 10px;
+  margin: 0 350px 0 355px;
+  background: #ECE8E8;
+  position: relative;
+  top: -825px;
+  /*z-index: 2;*/ }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003170}}
+  #main header {
+    width: 100%;
+    background-color: #1F2F37;
+    padding: 8px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003175}}
+    #main header p {
+      color: white;
+      font-size: 18px;
+      text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003180}}
+    #main header a {
+      margin-top: -10px;
+      float: right;
+      margin-top: -25px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003189}}
+.tabs {
+  display: block;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #D8D8D8;
+  width: 100%;
+  text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003194}}
+  .tabs ul li {
+    float: left;
+    border-right: 1px solid black;
+    list-style-type: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003201}}
+  .tabs ul {
+    margin: 0;
+    padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003207}}
+  .tabs ul li a {
+    text-decoration: none;
+    padding: 0 50px;
+    display: block;
+    height: 64px;
+    line-height: 64px;
+    font-size: 13px;
+    text-align: center;
+    color: #000;
+    background: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Fidan\/Desktop\/asan\/assets\/sass\/style\.scss}line{font-family:\00003219}}
+  .tabs img {
+    width: 45px;
+    height: 30px; }
+
+/*.form{
+      position: relative;
+      padding: 30px 30px 0 20px;
+      width:350px;
+    input{
+      border:1px solid white;
+      border-radius:5px;
+      width:100%;
+      padding:10px;
+      height:56px;
+
+    }
+ }*/
+
+/*# sourceMappingURL=style.css.map */
